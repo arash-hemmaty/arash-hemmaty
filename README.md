@@ -36,8 +36,8 @@ My goal is to turn complex information into insights that matter.
 
 ## Core Toolkit
 
-Python and pandas, SQL, PostgreSQL, Power BI, DAX, forecasting, and market basket analysis.
+Python , SQL, PostgreSQL, Power BI, DAX, forecasting, and market basket analysis.
 
 ## Let's Connect
 
-I welcome conversations with people working across data analytics, global trade, supply chains, critical minerals, energy, and battery technology.
+I welcome people working across data analytics, global trade, supply chains, critical minerals, energy, and battery technology.
